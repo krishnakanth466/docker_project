@@ -1,10 +1,9 @@
-<head>
-<title>Hello!! RaviTeja Anna</title>
-</head>
-
+<!DOCTYPE html>
+<html>
 <body>
 
-<img src="RaviTeja anna.jpg />
+<h2>HTML Image</h2>
+<img src="RaviTeja anna.jpg" width="500" height="600">
 
 </body>
 </html>
