@@ -3,7 +3,7 @@
 <body>
 
 <h2>HTML Image</h2>
-<img src="RaviTeja anna.jpg" width="500" height="600">
+<img src="RaviTeja anna.jpg" width="460" height="345">
 
 </body>
 </html>
