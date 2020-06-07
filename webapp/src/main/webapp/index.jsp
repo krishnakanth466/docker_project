@@ -1,3 +1,9 @@
-<h1> Hello,Welcome !!! </h1>
-<h2> You have successfully created Docker container </h2>
-<h3> uhauahahauaha </h3>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="RaviTeja anna.jpg" width="500" height="333">
+
+</body>
+</html>
