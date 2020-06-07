@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello,Welcome !!! </h1>
+<h2> You have successfully created Docker container </h2>
+<h3> uhauahahauaha </h3>
